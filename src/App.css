@@ -1,0 +1,11 @@
+.App {
+  text-align: center;
+}
+.active-link {
+  font-weight: bold;
+  color: blue;
+}
+ a{
+text-decoration: none;
+
+}
